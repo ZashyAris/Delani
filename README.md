@@ -1,28 +1,38 @@
-#DELANI STUDIO
-##Author
+# DELANI STUDIO
+## Author
 Sharon Atieno
-##DESCRIPTION
-This is a copy of the Delani studio Project
-###LICENSE
-MIT License
-
-Copyright (c) 2019 Sharon Atieno
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
+## Description
+Delani-Studio is a website host for a company that deals with creating domains and websites.We mostly deal with the following languages:
+<li>JAVASCRIPT.
+<li> HTML5.
+<li>CSS3.
+<li>BOOTSTRAP.
+<li>JQUERY.
+So far we have worked with a few companies, their projects can be viewed in the portfolio section each with its own description.
+We offer up to par work that keeps our clients to come back for more.
+## Behaviour Driven Development(BDD)
+ 1.Landing Page
+Icons: "Click on the icons to display their descriptions."
+Descriptions: "Click on the descriptions again to hide them and to display the icons."
+2.Portfolio Section
+Images: "Hover on each image to display their respective descriptions."
+3.Contact Us Section
+INPUT: "Fill all forms and Submit"
+OUTPUT: "Thanks for being our client,your message has been received"
+## Setup/Installation Requirements
+- Open terminal (CTRL ALT T)
+- git clone https://github.com/ZashyAris/Delani
+- cd delani-studio
+- use atom . or code . to open the clone repo on Atom or VS-code respectively
+## Known Bugs
+My website is not responsive.
+## Technologies Used
+- JAVASCRIPT
+- HTML5
+- CSS3
+- GIT (for version control)
+## Support and contact details
+- My contacts:+254793933082
+- email:sharonatieno080@gmail.com
+## Licence
+- Licensed under the  [MIT license](LICENSE).

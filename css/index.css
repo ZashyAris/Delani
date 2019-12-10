@@ -1,0 +1,66 @@
+.container-fluid{
+    font-family: 'Prompt', sans-serif;
+}
+.welcome{
+    font-family: 'Barlow', sans-serif;
+    color: white;
+    background-image:url(../img/h_img.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: o;
+    padding-top: 70px;
+    line-height: 150px; 
+}
+.about{
+    text-align: center;
+}
+.services{
+background-image: url(../img/s_image.jpg);
+text-align: center;
+color: white;
+line-height: 100px;
+}
+.whatwedo {
+    text-align: center;
+}
+.potfolio{
+    padding: 20px;
+    text-align: center;
+}
+.contacts{
+    text-align: center;
+    background-image: url(../img/c_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: o;
+    padding:50px;
+    color: white
+}
+#message{
+    width: 700px;
+    height: 200px;
+    background: transparent;
+    padding: 20px;
+    margin: 20px;
+}
+#name{
+    width: 400px;
+    height: 30px;
+    background: transparent;
+    padding: 20px;
+    margin: 20px;
+}
+#email{
+    width: 400px;
+    height: 30px;
+    background: transparent;
+    padding: 20px;
+    margin: 20px;
+}
+.footer{
+    text-align: center;
+    padding: 20px;
+}

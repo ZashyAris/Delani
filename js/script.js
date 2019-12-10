@@ -1,10 +1,8 @@
 $(document).ready(function(){
-    $('#design p').hide();
-    $('#design').click(function(){
-        $('#design p').toggle();
-        $('#design img').toggle();
+    $("#designimg , #design").click(function(){
+        $ ("#design").toggle()
+        $ ("#designimg").toggle()
     });
-});
 $(document).ready(function(){
     $('.card-dev p').hide();
     $('.card-dev').click(function(){

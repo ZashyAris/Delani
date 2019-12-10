@@ -30,7 +30,6 @@ line-height: 100px;
     text-align: center;
 }
 .contacts{
-    text-align: center;
     background-image: url(../img/c_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -63,4 +62,13 @@ line-height: 100px;
 .footer{
     text-align: center;
     padding: 20px;
+}
+#design{
+    display: none;
+}
+#development{
+    display: none;
+}
+#product{
+    display: none;
 }

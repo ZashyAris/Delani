@@ -32,7 +32,7 @@ My website is not responsive.
 - CSS3
 - GIT (for version control)
 ## Support and contact details
-- My contacts:+2547
+- My contacts:+254793933082
 - email:sharonatieno080@gmail.com
 ## Licence
 - Licensed under the  [MIT license](LICENSE).

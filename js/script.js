@@ -10,6 +10,18 @@ $(document).ready(function(){
         $("#designImg").show();
     });
 });
+$(document).ready(function(){
+    $("#devimg").click(function(){
+        $("#devimg").hide();
+        $("#development").toggle();
+        $("#development").show();
+    });
+    $("#development").click(function(){
+        $("#development").hide();
+        $("#devimg").toggle();
+        $("#devimg").show();
+    });
+});
 
 
 

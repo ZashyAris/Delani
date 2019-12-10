@@ -36,3 +36,4 @@ My website is not responsive.
 - email:sharonatieno080@gmail.com
 ## Licence
 - Licensed under the  [MIT license](LICENSE).
+[![codebeat badge](https://codebeat.co/badges/3d459f65-a4db-4c33-ab36-fa3621bea2c4)](https://codebeat.co/projects/github-com-zashyaris-delani-master)

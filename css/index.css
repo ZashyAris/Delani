@@ -36,7 +36,8 @@ line-height: 100px;
     position: relative;
     margin: o;
     padding:50px;
-    color: white
+    color: white;
+    font-family:'Cinzel', serif;
 }
 #message{
     width: 700px;
